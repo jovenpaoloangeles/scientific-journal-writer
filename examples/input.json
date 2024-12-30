@@ -1,0 +1,12 @@
+{
+    "section": "Introduction",
+    "keypoints": [
+        "Gold nanoparticles are versatile materials used in catalysis, sensing, and biomedical applications.",
+        "Their unique optical properties, especially localized surface plasmon resonance (LSPR), make them suitable for Surface-Enhanced Raman Scattering (SERS).",
+        "Optimizing synthesis conditions for desired nanoparticle morphologies and properties is challenging due to complex parameter interdependencies.",
+        "This study uses Bayesian Optimization to systematically optimize synthesis conditions for gold nanoparticles.",
+        "The optimization focuses on maximizing the wavelength of maximum absorption (λmax) to enhance SERS activity.",
+        "Key parameters include gold salt concentration, reducing agent concentration, and temperature."
+    ],
+    "word_limit": 1000
+}
